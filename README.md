@@ -1,7 +1,6 @@
-# EXPERIMENT--01-ALP-FOR-8086
 ## Name : Indhu Priya.T
 ## Roll no : 212224110024
-# EXPERIMENT-01:ALP-FOR-8086
+## EXPERIMENT-01:ALP-FOR-8086
 ## Date of experiment : 18/06/2025
 
 
