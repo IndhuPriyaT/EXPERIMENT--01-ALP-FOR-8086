@@ -102,7 +102,8 @@ ret
 ```
  
 ## Output  
-![Uploading Screenshot (66).png…]()
+<img width="1920" height="1200" alt="Screenshot (66)" src="https://github.com/user-attachments/assets/b0247e78-2022-425c-9b21-c1e4583e874f" />
+
 
 
 ## Multiplication alp 
@@ -132,7 +133,9 @@ ret
 ## Output  
 
 
-<img width="1920" height="1200" alt="Screenshot (63)" src="https://github.com/user-attachments/assets/86d5686d-9cf3-4025-9526-76e9f7f99469" />
+<img width="1920" height="1200" alt="Screenshot (67)" src="https://github.com/user-attachments/assets/606593e6-5e37-46f4-bf97-8a4c6abe42ef" />
+
+
 
 
 ## Result :
