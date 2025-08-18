@@ -137,7 +137,55 @@ ret
 <img width="1920" height="1200" alt="Screenshot (68)" src="https://github.com/user-attachments/assets/496bfd71-e547-413e-aeaa-d24cc4733744" />
 
 
+## Program for Logical Operations:
 
+## AND operation of 8-bit ALP:
+```
+org 100h
+mov ax,5aa3h 
+mov bx,8090h
+mov ax,[bx]
+and ax,bx
+ret
+```
+## Output:
+
+<img width="1920" height="1200" alt="Screenshot (73)" src="https://github.com/user-attachments/assets/89623086-3e1d-4d1c-b74a-3832704e45a1" />
+
+## OR operation for 8-bit ALP :
+```
+org 100h
+mov ax,5aa3h 
+mov bx,8090h
+or ax,bx
+ret
+```
+## Output:
+<img width="1920" height="1200" alt="Screenshot (74)" src="https://github.com/user-attachments/assets/74c17529-91e2-491d-b191-2e0ae323a3f7" />
+
+## NOT operation for 8-bit ALP:
+```
+org 100h
+mov ax,5aa3h 
+mov bx,[8090h]
+not bx
+ret
+```
+## Output:
+<img width="1920" height="1200" alt="Screenshot (75)" src="https://github.com/user-attachments/assets/bb593433-3aac-40de-846d-ca56bd5fa42e" />
+
+## XOR operation for 8-bit ALP:
+```
+org 100h
+mov ax,5aa3h  
+mov bx,[8090h]  
+mov ax,[bx]
+xor ax,bx
+ret 
+```
+
+## Output:
+<img width="1920" height="1200" alt="Screenshot (76)" src="https://github.com/user-attachments/assets/07a6e8a9-80ac-4122-bff8-9f8259cd1bc0" />
 
 
 ## Result :
