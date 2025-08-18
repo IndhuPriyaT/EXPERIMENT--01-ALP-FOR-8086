@@ -82,27 +82,29 @@ Running The Emulator (emu8086) Intro 8086 Microprocessor Emulator, also known as
 ```
 org 100h
 mov ax,5aa3h 
-mov bx,2cdbh
-add ax,cx      
+mov ax,[bx]
+add ax,bx
 ret
+
 ```
 
 ## Output  
 
-<img width="1920" height="1200" alt="Screenshot (54)" src="https://github.com/user-attachments/assets/6e131a16-8056-4305-a6f5-2a1a55fb0c92" />
+<img width="1920" height="1200" alt="Screenshot (72)" src="https://github.com/user-attachments/assets/105a2aad-f66d-4057-a023-edf394259f1a" />
 
  
 ## Subtraction   of 8 bit numbers  ALP 
 ```
 org 100h
 mov ax,5aa3h 
-mov bx,2cdbh
-sub ax,bx    
+mov bx,[2cdbh] 
+mov cx,ax
+sub ax,cx
 ret
 ```
  
 ## Output  
-<img width="1920" height="1200" alt="Screenshot (66)" src="https://github.com/user-attachments/assets/b0247e78-2022-425c-9b21-c1e4583e874f" />
+<img width="1920" height="1200" alt="Screenshot (69)" src="https://github.com/user-attachments/assets/ce7ad299-3f99-443e-a133-4087df9cddab" />
 
 
 
@@ -124,16 +126,16 @@ ret
 ```
 org 100h
 mov ax,5aa3h 
-mov bx,2cdbh
-div bx     
+mov bx,[2cdbh]
+div bx
 ret
+
 
 ```
 
 ## Output  
+<img width="1920" height="1200" alt="Screenshot (68)" src="https://github.com/user-attachments/assets/496bfd71-e547-413e-aeaa-d24cc4733744" />
 
-
-<img width="1920" height="1200" alt="Screenshot (67)" src="https://github.com/user-attachments/assets/606593e6-5e37-46f4-bf97-8a4c6abe42ef" />
 
 
 
