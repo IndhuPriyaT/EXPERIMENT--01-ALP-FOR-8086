@@ -141,7 +141,7 @@ ret
 
 
 ## Result :
-Thus, to Write and execute ALP on fundamental arithmetic and logical operations is successfully executed
+Thus, to write and execute ALP on fundamental arithmetic and logical operations is successfully executed
 
 
 
