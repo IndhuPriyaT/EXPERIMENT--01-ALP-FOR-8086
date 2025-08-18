@@ -102,7 +102,8 @@ ret
 ```
  
 ## Output  
-<img width="1920" height="1200" alt="Screenshot (57)" src="https://github.com/user-attachments/assets/4e4ae0a2-8bd0-44ce-8557-3069a511d50b" />
+![Uploading Screenshot (66).png…]()
+
 
 ## Multiplication alp 
 ```
@@ -113,7 +114,9 @@ mul ax
 ret
 ```
  ## Output  
-<img width="1920" height="1200" alt="Screenshot (60)" src="https://github.com/user-attachments/assets/eebecd43-ca00-4bc4-be5d-18e9a4117c17" />
+
+<img width="1920" height="1200" alt="Screenshot (64)" src="https://github.com/user-attachments/assets/3983d100-2072-47e2-b639-25a6f5e657ae" />
+
 
 
 ## Division alp 
@@ -127,7 +130,9 @@ ret
 ```
 
 ## Output  
-<img width="1920" height="1200" alt="Screenshot (61)" src="https://github.com/user-attachments/assets/449f143c-db26-484a-8435-d7f3cda167ae" />
+
+
+<img width="1920" height="1200" alt="Screenshot (63)" src="https://github.com/user-attachments/assets/86d5686d-9cf3-4025-9526-76e9f7f99469" />
 
 
 ## Result :
