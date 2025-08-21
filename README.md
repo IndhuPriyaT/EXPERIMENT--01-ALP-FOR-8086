@@ -90,7 +90,7 @@ ret
 
 ## Output  
 
-<img width="1920" height="1200" alt="Screenshot (72)" src="https://github.com/user-attachments/assets/105a2aad-f66d-4057-a023-edf394259f1a" />
+<img width="1054" height="612" alt="Screenshot 2025-08-21 132934" src="https://github.com/user-attachments/assets/ebf26531-6107-4034-aca0-62e596bc24ec" />
 
  
 ## Subtraction  of 16-bit ALP 
@@ -104,8 +104,7 @@ ret
 ```
  
 ## Output  
-<img width="1920" height="1200" alt="Screenshot (69)" src="https://github.com/user-attachments/assets/ce7ad299-3f99-443e-a133-4087df9cddab" />
-
+<img width="1174" height="765" alt="Screenshot 2025-08-21 133631" src="https://github.com/user-attachments/assets/d3d99e3c-edc2-4000-bc82-c1be006dedb2" />
 
 
 ## Multiplication of 16-bit ALP: 
@@ -118,8 +117,7 @@ ret
 ```
  ## Output  
 
-<img width="1920" height="1200" alt="Screenshot (64)" src="https://github.com/user-attachments/assets/3983d100-2072-47e2-b639-25a6f5e657ae" />
-
+<img width="1241" height="791" alt="Screenshot 2025-08-21 133927" src="https://github.com/user-attachments/assets/88f5e026-cd81-4d77-b674-f0e5bf9d225f" />
 
 
 ## Division of 16-bit ALP: 
@@ -134,8 +132,7 @@ ret
 ```
 
 ## Output  
-<img width="1920" height="1200" alt="Screenshot (68)" src="https://github.com/user-attachments/assets/496bfd71-e547-413e-aeaa-d24cc4733744" />
-
+<img width="1236" height="786" alt="Screenshot 2025-08-21 134218" src="https://github.com/user-attachments/assets/526569b1-f79b-4fed-adcf-89681d0b646c" />
 
 ## Program for Logical Operations:
 
@@ -150,7 +147,7 @@ ret
 ```
 ## Output:
 
-<img width="1920" height="1200" alt="Screenshot (73)" src="https://github.com/user-attachments/assets/89623086-3e1d-4d1c-b74a-3832704e45a1" />
+<img width="1190" height="771" alt="Screenshot 2025-08-21 134517" src="https://github.com/user-attachments/assets/b8e05f02-b8cc-4e6b-823e-70c0e22fb27a" />
 
 ## OR operation for 8-bit ALP :
 ```
@@ -161,7 +158,8 @@ or ax,bx
 ret
 ```
 ## Output:
-<img width="1920" height="1200" alt="Screenshot (74)" src="https://github.com/user-attachments/assets/74c17529-91e2-491d-b191-2e0ae323a3f7" />
+<img width="1309" height="778" alt="Screenshot 2025-08-21 134722" src="https://github.com/user-attachments/assets/5dfca25b-b0e0-48bb-a478-43d81dbdc9f3" />
+
 
 ## NOT operation for 8-bit ALP:
 ```
@@ -172,7 +170,7 @@ not bx
 ret
 ```
 ## Output:
-<img width="1920" height="1200" alt="Screenshot (75)" src="https://github.com/user-attachments/assets/bb593433-3aac-40de-846d-ca56bd5fa42e" />
+<img width="1190" height="758" alt="Screenshot 2025-08-21 134906" src="https://github.com/user-attachments/assets/758ae2ee-e066-4858-9b6a-d58ff6f8f5a1" />
 
 ## XOR operation for 8-bit ALP:
 ```
@@ -185,7 +183,8 @@ ret
 ```
 
 ## Output:
-<img width="1920" height="1200" alt="Screenshot (76)" src="https://github.com/user-attachments/assets/07a6e8a9-80ac-4122-bff8-9f8259cd1bc0" />
+<img width="1189" height="779" alt="Screenshot 2025-08-21 135111" src="https://github.com/user-attachments/assets/213ba011-766b-49b2-a236-c54d0d37e825" />
+
 
 
 ## Result :
