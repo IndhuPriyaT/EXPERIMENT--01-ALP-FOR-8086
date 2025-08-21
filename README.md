@@ -81,16 +81,17 @@ Running The Emulator (emu8086) Intro 8086 Microprocessor Emulator, also known as
 
 ```
 org 100h
-mov ax,5aa3h 
+mov ax,5aa3h
+mov bx,776fh 
 mov ax,[bx]
 add ax,bx
-ret
+ret 
 
 ```
 
 ## Output  
+<img width="1198" height="781" alt="Screenshot 2025-08-21 143521" src="https://github.com/user-attachments/assets/101cdaa9-449b-4634-b4e9-caa1d2f5c39f" />
 
-<img width="1054" height="612" alt="Screenshot 2025-08-21 132934" src="https://github.com/user-attachments/assets/ebf26531-6107-4034-aca0-62e596bc24ec" />
 
  
 ## Subtraction  of 16-bit ALP 
