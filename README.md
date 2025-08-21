@@ -1,4 +1,4 @@
-## Name : Indhu Priya.T
+<img width="1327" height="809" alt="image" src="https://github.com/user-attachments/assets/d8327295-6ca6-44d5-b6e3-85579facf0ea" />## Name : Indhu Priya.T
 ## Roll no : 212224110024
 ## EXPERIMENT-01:ALP FOR 8086
 ## Date of experiment : 18/06/2025
@@ -97,15 +97,16 @@ ret
 ## Subtraction  of 16-bit ALP 
 ```
 org 100h
-mov ax,5aa3h 
-mov bx,[2cdbh] 
+mov ax,5aa3h   
+mov [4567h],8bcdh
+mov cx,[4567h] 
 mov cx,ax
 sub ax,cx
 ret
 ```
  
 ## Output  
-<img width="1174" height="765" alt="Screenshot 2025-08-21 133631" src="https://github.com/user-attachments/assets/d3d99e3c-edc2-4000-bc82-c1be006dedb2" />
+<img width="1327" height="809" alt="Screenshot 2025-08-21 144252" src="https://github.com/user-attachments/assets/b967ca3d-8097-4423-982a-d3d33460af62" />
 
 
 ## Multiplication of 16-bit ALP: 
