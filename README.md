@@ -1,4 +1,4 @@
-<img width="1327" height="809" alt="image" src="https://github.com/user-attachments/assets/d8327295-6ca6-44d5-b6e3-85579facf0ea" />## Name : Indhu Priya.T
+## Name : Indhu Priya.T
 ## Roll no : 212224110024
 ## EXPERIMENT-01:ALP FOR 8086
 ## Date of experiment : 18/06/2025
