@@ -170,7 +170,7 @@ not bx
 ret
 ```
 ## Output:
-<img width="1190" height="758" alt="Screenshot 2025-08-21 134906" src="https://github.com/user-attachments/assets/758ae2ee-e066-4858-9b6a-d58ff6f8f5a1" />
+<img width="1190" height="758" alt="Screenshot 2025-08-21 134906" src="https://github.com/user-attachments/assets/f6815ff2-7b46-4bdf-a477-91804b41295a" />
 
 ## XOR operation for 8-bit ALP:
 ```
@@ -183,7 +183,8 @@ ret
 ```
 
 ## Output:
-<img width="1189" height="779" alt="Screenshot 2025-08-21 135111" src="https://github.com/user-attachments/assets/213ba011-766b-49b2-a236-c54d0d37e825" />
+<img width="1189" height="779" alt="Screenshot 2025-08-21 135111" src="https://github.com/user-attachments/assets/b571fbe5-924a-4e78-958d-bf212810d7fb" />
+
 
 
 
